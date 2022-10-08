@@ -10,7 +10,7 @@ public class Menu extends JFrame implements ActionListener {
 
 	public Menu(){
 
-		this.setTitle("Symulogic");
+		this.setTitle("SimuLogic");
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		this.setResizable(false);
 		this.setLocationRelativeTo(null);
